@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @evgeniyp92
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning responsive web design, React, GraphQL and project management
-- 💞️ I’m looking to collaborate on portfolio projects!
+- 👋 Hi, I’m Evgeniy P
+- 👀 I’m interested in Fullstack Web Development
+- 🌱 I’m currently learning Node backend development with MongoDB
+- 💞️ I’m looking to collaborate on portfolio projects and with other military coders.
 - 📫 How to reach me: by email at 1@evgeniypimenov[dot]com.
 
 <!---
