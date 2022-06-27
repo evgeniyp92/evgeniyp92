@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Evgeniy P
+- 👋 Hi, I’m Evgeniy Pimenov
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Node backend development with MongoDB
-- 💞️ I’m looking to collaborate on portfolio projects and with other military coders.
+- 🌱 I’m currently learning Typescript and deepening my knowledge of fullstack web dev
+- 💞️ I’m looking to collaborate on apps that bridge the Web2/Web3 gap
 - 📫 How to reach me: by email at 1@evgeniypimenov[dot]com.
 
 <!---
